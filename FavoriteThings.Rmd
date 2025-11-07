@@ -1,5 +1,6 @@
 ---
 title: "A few of my favorite things"
+author: "Alex Hurtado Desaulniers"
 output: html_notebook
 ---
 
@@ -10,4 +11,4 @@ Unordered List:
  - Bikes and MTB
  - Modding controllers and Playing Videogames
  
- 🌻
+ 🪦 - by student choice
