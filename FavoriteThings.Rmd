@@ -1,14 +1,15 @@
 ---
-title: "A few of my favorite things"
-author: "Alex Hurtado Desaulniers"
+title: "Favorites, James"
+author: "James Dean Simpson."
 output: html_notebook
 ---
 
-Unordered List:
+Favorites in a list.
 
- - Books and Reading
- - Yarn and Crocheting 
- - Bikes and MTB
- - Modding controllers and Playing Videogames
+1. Reading.
+2. Watching Movies/TV shows.
+3. Video games.
+4. Interacting with friends.
+5. Football.
 
 🍴
